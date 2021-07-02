@@ -1,0 +1,12 @@
+/* deze css is alleen voor de paar linkjes die ik heb gebruikt, om die wat netjes te maken. */
+
+a.link{
+    text-decoration: none;
+    color: black;
+}
+
+/* als je over de link heen hovered met je muis, wordt de tekst dus een andere kleur en komt er een streepje onder om aan te tonen dat dit een link is. */
+a.link:hover{
+    text-decoration: underline;
+    color: blue;
+}
